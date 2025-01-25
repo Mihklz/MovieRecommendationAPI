@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "J/hXd1IsG6mHRlZQ2RPZZajONT7TTCkh6VywAyDdCPQ=",
+  "Source": "MovieRecommendationAPI",
+  "BasePath": "_content/MovieRecommendationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
